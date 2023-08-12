@@ -21,7 +21,7 @@ This program puts a file in your current roblox directory which allows the user 
 
 # Is This Harmful In Anyway?
 
-No. The program only changes your roblox graphics settings. This will not be detected by Byfron.
+No. The program only changes your roblox graphics settings. This will not be detected by Byfron nor will do anything harmful to your device.
 
 # Credits / Mentions
 
