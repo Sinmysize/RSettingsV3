@@ -25,6 +25,5 @@ No. The program only changes your roblox graphics settings. This will not be det
 
 # Credits / Mentions
 
--L8X For The ClientAppSettings.json File.
-
--Reddit Thread For Information : https://www.reddit.com/r/roblox/comments/11lj46v/i_figured_out_how_to_actually_change_you_graphics/
+1. L8X For The ClientAppSettings.json File.
+2. Reddit Thread For Information : https://www.reddit.com/r/roblox/comments/11lj46v/i_figured_out_how_to_actually_change_you_graphics/
